@@ -22,6 +22,11 @@ echo str_replace("ipsum", "gucci", $string);
 
 ?>  
 
+
+<?php echo phpinfo();   ?>
+
+
+
 </body>
 
 </html>
